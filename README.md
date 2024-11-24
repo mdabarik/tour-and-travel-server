@@ -30,3 +30,12 @@ review {
     tour -> ref
     user -> ref
 }
+
+project setup:
+// module/user/
+-- model
+-- interface
+-- zod/joi
+-- router
+-- service
+-- controller
